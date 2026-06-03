@@ -1,5 +1,9 @@
 # FinWise – Personal Finance & Credit Intelligence Prototype
 
+## Live Prototype
+
+https://nishantkasbekar0901.github.io/finwise-product-prototype/
+
 ## Overview
 
 FinWise is an academic product design prototype developed as part of IT Product Design coursework.
